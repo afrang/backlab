@@ -76,15 +76,15 @@ export default {
       }
     }
   },
-  io: {
-    sockets:[
-      {
-        name:'home',
-        url:'http://localhost:8001',
-        default:true
-      }
-    ]
-  },
+  // io: {
+  //   sockets:[
+  //     {
+  //       name:'home',
+  //       url:'http://localhost:8001',
+  //       default:true
+  //     }
+  //   ]
+  // },
   server:{
     port:3452,
     //host:'0,0,0,0'
