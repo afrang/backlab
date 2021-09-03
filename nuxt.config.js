@@ -86,8 +86,8 @@ export default {
     ]
   },
   server:{
-    port:3252,
-    //host:'0,0,0,0'
+    port:3452,
+    host:'0,0,0,0'
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
